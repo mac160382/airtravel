@@ -1,4 +1,4 @@
-from Classes.airtravel import AirBusA319
+from airtravel.airtravel import AirBusA319
 
 import unittest
 

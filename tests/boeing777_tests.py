@@ -1,4 +1,4 @@
-from Classes.airtravel import Boeing777
+from airtravel.airtravel import Boeing777
 
 import unittest
 
